@@ -4,9 +4,9 @@
 epub.build(option)
 ```
 To use this you will need:
-[jszip](https://github.com/Stuk/jszip)
-[jquery](https://github.com/jquery/jquery)
-[FileSaver](https://github.com/eligrey/FileSaver.js)
+* [jszip](https://github.com/Stuk/jszip)
+* [jquery](https://github.com/jquery/jquery)
+* [FileSaver](https://github.com/eligrey/FileSaver.js)
 ### defaultOption
 ```js
     defaultOption = {
